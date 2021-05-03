@@ -3,6 +3,9 @@
     margin: 0;
    font-family: serif;
  }
+body{
+    overflow-x: hidden;
+ }
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -147,7 +150,7 @@ footer{
     padding-left: 0;
   }
   .footercols ul li a:hover{
-     background-color: #82e5eb;
+     background-color: white;
 
   }
   .footercols ul li,span{
