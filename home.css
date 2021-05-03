@@ -148,6 +148,8 @@ footer{
   .footercols ul {
     list-style-type:none;
     padding-left: 0;
+      color: rgba(15, 15, 15, 0.5);
+    font-family: sans-serif;
   }
   .footercols ul li a:hover{
      background-color: white;
